@@ -9,7 +9,7 @@ import {
 import {
   getAllUsers,
   toggleUserStatus
-} from "../controllers/adminUserController.js";
+} from "../controllers/Adminusercontroller.js";
 import {
   getFraudAlerts,
   generateFraudSummary
