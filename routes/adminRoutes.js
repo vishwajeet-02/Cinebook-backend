@@ -5,7 +5,7 @@ import {
   getAllTickets,
   getAnalytics,
   generateMovieDescription
-} from "../controllers/adminController.js";
+} from "../controllers/Admincontroller.js";
 import {
   getAllUsers,
   toggleUserStatus
